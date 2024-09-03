@@ -1,0 +1,7 @@
+<dependencies>
+    <dependency>
+        <groupId>javax.swing</groupId>
+        <artifactId>javax.swing-api</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+</dependencies>
