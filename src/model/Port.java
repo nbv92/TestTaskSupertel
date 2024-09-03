@@ -2,8 +2,6 @@ package model;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.HashSet;
-import java.util.Set;
 
 public class Port {
     public static List<List<Integer>> convertIndexes(String[] indexes) {
