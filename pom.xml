@@ -1,7 +1,25 @@
-<dependencies>
-    <dependency>
-        <groupId>javax.swing</groupId>
-        <artifactId>javax.swing-api</artifactId>
-        <version>1.0.0</version>
-    </dependency>
-</dependencies>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>Tim.Sharipov</groupId>
+    <artifactId>SuperTel</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>TestTaskSupertel</name>
+    <description>Demo project</description>
+    <properties>
+        <java.version>11</java.version>
+    </properties>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/junit/junit -->
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+
+</project>
